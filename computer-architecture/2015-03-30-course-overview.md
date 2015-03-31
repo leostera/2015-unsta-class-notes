@@ -32,7 +32,7 @@ Within these four big divisions of a computer, we can consider that:
 
 There's 5 generations of computers.
 
-0. Composed mainly by mechanical devices (begining of the 40s, WW2).
+0. Composed mainly by mechanical devices (beginning of the 40s, WW2).
 
 1. First decade after 1945 consisted of computers made of Valves! ENIAC
 (Electronic Numerical Integrator And Computer) is a sample of it. Every digit
@@ -42,6 +42,8 @@ were formed by nine valves.
 accidentally discovered at AT&T's Bell Labs. 
 
 3. Integrated Circuits appear. Take it from 1965 till the 80s
+http://en.wikipedia.org/wiki/Intel_4004
+
 
 4. Big scale computers and personal computers.
 
